@@ -1,4 +1,4 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<`Methods`>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+`Methods`
 jQuery provides a wide range of methods to manipulate the Document Object Model (DOM). Here is a list of some of the most commonly used DOM manipulation methods in jQuery:
 
 1. **Selecting Elements**:
